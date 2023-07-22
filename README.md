@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harold Castaño) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harold-castaño-816180216) <br/>
 [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/koderx)
 
 # 💻 Tech Stack:
